@@ -6,7 +6,7 @@ This guide outlines the Enterprise Decision Matrix, enabling organizations to as
 # The Enterprise Decision Matrix
 [The Enterprise Decision Matrix](<01 Copilot_Enterprise_Decision_Matrix/Copilot_Enterprise_Decision_Matrix.pdf>)
 
-## Slide 1 – Decoding Microsoft Copilot: The Enterprise Decision Matrix
+#### Slide 1 – Decoding Microsoft Copilot: The Enterprise Decision Matrix
 
 Summary:
 The deck frames Copilot licensing as a strategic enterprise decision, distinguishing between consumer AI and enterprise-grade transformation capabilities.
