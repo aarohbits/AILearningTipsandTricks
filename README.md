@@ -60,3 +60,14 @@ The real differentiators are integration, Graph access, governance, and complian
 
 Summary:
 The business case for Full Enterprise is driven by integration with Microsoft Graph and Office apps, where enterprise work and ROI are created.
+
+# The AB 100 and AB 730 Visual Guides 
+
+## Infographics 
+
+The visual guide below provides a side-by-side breakdown of Copilot Basic versus Microsoft 365 Premium. It highlights key differences in data grounding, security boundaries, and application integration.
+![Copilot Basic vs. M365 Premium Infographics](<02 AB 100 and AB 730 Visual Guides/Copilot Basic vs. M365 Premium Infographics.png>)
+
+## Slide Deck 
+For a deeper dive into the architectural differences and the strategic ROI of each tier—particularly  Data Integrity—download the full comparison deck
+[Copilot Basic vs. M365 Premium Strategy Comparison - Deck](<02 AB 100 and AB 730 Visual Guides/Copilot Basic vs. M365 Premium Strategy Comparison - Deck.pdf>)
