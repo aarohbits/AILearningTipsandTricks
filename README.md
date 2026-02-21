@@ -69,5 +69,5 @@ The visual guide below provides a side-by-side breakdown of Copilot Basic versus
 ![Copilot Basic vs. M365 Premium Infographics](<02 AB 100 and AB 730 Visual Guides/Copilot Basic vs. M365 Premium Infographics.png>)
 
 ## Slide Deck 
-For a deeper dive into the architectural differences and the strategic ROI of each tier—particularly  Data Integrity—download the full comparison deck
+For a deeper dive into the architectural differences and the strategic ROI of each tier—particularly Data Integrity—download the full comparison deck
 [Copilot Basic vs. M365 Premium Strategy Comparison - Deck](<02 AB 100 and AB 730 Visual Guides/Copilot Basic vs. M365 Premium Strategy Comparison - Deck.pdf>)
