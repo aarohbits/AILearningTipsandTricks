@@ -77,11 +77,24 @@ For a deeper dive into the architectural differences and the strategic ROI of ea
 
 ## Infographics 
 
-The visual guide below provides a side-by-side breakdown of Copilot Basic versus Microsoft 365 Premium. It highlights key differences in data grounding, security boundaries, and application integration.
+The visual guide below provides a side-by-side breakdown of SharePoint Copilot Readiness as infographics.
 
 [SharePoint Copilot Readiness - Infographics](<03 Microsoft 365 Copilot with SharePoint/SharePoint_Copilot_Readiness - Slide Deck.pdf>)
 
 ## Slide Deck 
-For a deeper dive into the architectural differences and the strategic ROI of each tier—particularly Data Integrity—download the full comparison deck
+The visual guide below provides a side-by-side breakdown of SharePoint Copilot Readiness as slide deck.
 
 [SharePoint Copilot Readiness - Infographics](<03 Microsoft 365 Copilot with SharePoint/SharePoint_Copilot_Readiness - Slide Deck.pdf>)
+
+# Copilot Studio Visual Licensing Guide - Feb 2026  
+
+## Infographics 
+
+A streamlined infographic mapping current compliance-ready features and seat-based pricing for enterprise scale. 
+
+![Copilot Studio Visual Licensing Guide - Feb 2026 - Infographics](<04 Copilot Studio Visual Licensing Guide - Feb 2026/Copilot Studio Visual Licensing Guide - Feb 2026 Infographics.png>)
+
+## Slide Deck 
+For a deeper dive into the architectural differences and the strategic ROI of each tier—particularly Data Integrity—download the full comparison deck
+
+[Copilot Studio Visual Licensing Guide - Feb 2026 - Infographic](<03 Microsoft 365 Copilot with SharePoint/SharePoint_Copilot_Readiness - Slide Deck.pdf>)
