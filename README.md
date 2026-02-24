@@ -95,6 +95,6 @@ A streamlined infographic mapping current compliance-ready features and seat-bas
 ![Copilot Studio Visual Licensing Guide - Feb 2026 - Infographics](<04 Copilot Studio Visual Licensing Guide - Feb 2026/Copilot Studio Visual Licensing Guide - Feb 2026 Infographics.png>)
 
 ## Slide Deck 
-For a deeper dive into the architectural differences and the strategic ROI of each tier—particularly Data Integrity—download the full comparison deck
+A clear, step-by-step breakdown of licensing tiers and compliant governance for your next presentation.
 
-[Copilot Studio Visual Licensing Guide - Feb 2026 - Infographic](<03 Microsoft 365 Copilot with SharePoint/SharePoint_Copilot_Readiness - Slide Deck.pdf>)
+[Copilot Studio Visual Licensing Guide - Feb 2026 - Slide Deck](<04 Copilot Studio Visual Licensing Guide - Feb 2026/Copilot Studio Visual Licensing Guide - Feb 2026 - Slide Deck.pdf>)
