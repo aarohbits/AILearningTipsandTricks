@@ -98,3 +98,22 @@ A streamlined infographic mapping current compliance-ready features and seat-bas
 A clear, step-by-step breakdown of licensing tiers and compliant governance for your next presentation.
 
 [Copilot Studio Visual Licensing Guide - Feb 2026 - Slide Deck](<04 Copilot Studio Visual Licensing Guide - Feb 2026/Copilot Studio Visual Licensing Guide - Feb 2026 - Slide Deck.pdf>)
+
+
+
+# SharePoint Knowledge Agent Prerequisites 
+
+## Infographics 
+
+A streamlined infographic mapping current SPO Knowledge Agent Prprerequisites   
+
+
+![SharePoint Knowledge Agent Prerequisites](<05 SharePoint Online Knowledge Agent Prerequesties/SPO Knowledge Agen Prerequiestes.png>)
+
+
+
+## Slide Deck 
+A clear, step-by-step breakdown of licensing tiers and compliant governance for your next presentation.
+
+A streamlined slide deck  mapping current SPO Knowledge Agent Prprerequisites    
+[teSharePoint Knowledge Agent Prerequisitesxt](<05 SharePoint Online Knowledge Agent Prerequesties/SharePoint_Knowledge_Agent_Readiness.pdf>)
