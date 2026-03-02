@@ -105,15 +105,15 @@ A clear, step-by-step breakdown of licensing tiers and compliant governance for 
 
 ## Infographics 
 
-A streamlined infographic mapping current SPO Knowledge Agent Prprerequisites   
+👉 Is your SharePoint Online environment truly ready for Knowledge Agents - Infographics? 
 
 
-![SharePoint Knowledge Agent Prerequisites](<05 SharePoint Online Knowledge Agent Prerequesties/SPO Knowledge Agen Prerequiestes.png>)
+![SharePoint Online - Knowledge Agent Readiness Checklist - Infographics](<05 SharePoint Online Knowledge Agent Prerequesties/SharePoint Online - Knowledge Agent Readiness Checklist - Infographics.png>)
 
 
 
 ## Slide Deck 
-A clear, step-by-step breakdown of licensing tiers and compliant governance for your next presentation.
 
-A streamlined slide deck  mapping current SPO Knowledge Agent Prprerequisites    
-[teSharePoint Knowledge Agent Prerequisitesxt](<05 SharePoint Online Knowledge Agent Prerequesties/SharePoint_Knowledge_Agent_Readiness.pdf>)
+👉 Is your SharePoint Online environment truly ready for Knowledge Agents - Slide Deck?  
+
+[SharePoint Online - Knowledge Agent Readiness Checklist](<05 SharePoint Online Knowledge Agent Prerequesties/SharePoint Online - Knowledge Agent Readiness Checklist - Slide Deck.pdf>)
