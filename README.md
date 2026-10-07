@@ -123,4 +123,4 @@ A clear, step-by-step breakdown of licensing tiers and compliant governance for 
 
 👉 Copilot Studio Visual Licensing Blueprint October 2026 in Visual Way
 
-[Copilot Studio Visual Licensing Blueprint October 2026 in Visual Way](<06 Copilot Studio Visual Licensing Guide -Oct  2026/Demystifying_Microsoft_Copilot_Studio.pdf>)
+[Copilot Studio Visual Licensing Blueprint October 2026 in Visual Way](<06 Copilot Studio Visual Licensing Guide -Oct  2026/Demystifying_Microsoft_Copilot_Studio_Aroh_Shukla.pdf>)
