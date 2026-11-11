@@ -119,8 +119,8 @@ A clear, step-by-step breakdown of licensing tiers and compliant governance for 
 [SharePoint Online - Knowledge Agent Readiness Checklist](<05 SharePoint Online Knowledge Agent Prerequesties/SharePoint Online - Knowledge Agent Readiness Checklist - Slide Deck.pdf>)
 
 
-## Slide Deck Copilot Studio Licensing_Blueprint - Oct 2026
+## Slide Deck Copilot Studio Visual Licensing Blueprint - October 2026
 
-👉  Copilot Studio Licensing Blueprint in Visual Way - October 2026  
+👉 Copilot Studio Visual Licensing Blueprint October 2026 in Visual Way
 
-[Copilot Studio Licensing Blueprint - October 2026 ](<06 Copilot Studio Visual Licensing Guide - Oct 2026/Demystifying_Microsoft_Copilot_Studio.pdf>)
+[Copilot Studio Visual Licensing Blueprint October 2026 in Visual Way](<06 Copilot Studio Visual Licensing Guide -Oct  2026/Demystifying_Microsoft_Copilot_Studio_Aroh_Shukla.pdf>)
