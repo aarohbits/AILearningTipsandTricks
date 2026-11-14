@@ -135,6 +135,6 @@ A clear, step-by-step breakdown of licensing tiers and compliant governance for 
 
 ##  Irreplaceable Cloud  AI Architect  - November 2026
 
-👉  Irreplaceable Cloud AI Architect Skills  in Visual Way
+👉  Irreplaceable Cloud AI Architect Skills in Visual Way
 
-[Irreplaceable Cloud AI Architect Skills in Visual Way](<06 Copilot Studio Visual Licensing Guide -Oct  2026/Demystifying_Microsoft_Copilot_Studio_Aroh_Shukla.pdf>)
+[Irreplaceable Cloud AI Architect Skills in Visual Way](<08 Irreplaceable Cloud  AI Architect/The_Irreplaceable_Architect_Clean_Final.pdf>)
