@@ -138,3 +138,10 @@ A clear, step-by-step breakdown of licensing tiers and compliant governance for 
 👉  Irreplaceable Cloud AI Architect Skills in Visual Way
 
 [Irreplaceable Cloud AI Architect Skills in Visual Way](<08 Irreplaceable Cloud  AI Architect/The_Irreplaceable_Architect_Clean_Final.pdf>)
+
+
+##  Udemy Dr Ryan Copilot Cowork Notes with Screenshots and refrences - November 2026
+
+👉  Udemy Dr Ryan Copilot Cowork Notes with Screenshots and refrences
+
+[Udemy Dr Ryan Copilot Cowork Notes with Screenshots and refrences](<09 Udemy Dr Ryan - Copilot Cowork Notes/20261116 Aroh Shukla Copilot Cowork Notes - All Screenshots & Practice.pdf>) 
