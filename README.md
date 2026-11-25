@@ -119,11 +119,7 @@ A clear, step-by-step breakdown of licensing tiers and compliant governance for 
 [SharePoint Online - Knowledge Agent Readiness Checklist](<05 SharePoint Online Knowledge Agent Prerequesties/SharePoint Online - Knowledge Agent Readiness Checklist - Slide Deck.pdf>)
 
 
-## Slide Deck Copilot Studio Visual Licensing Blueprint - October 2026
-
-👉 Copilot Studio Visual Licensing Blueprint October 2026 in Visual Way
-
-[Copilot Studio Visual Licensing Blueprint October 2026 in Visual Way](<06 Copilot Studio Visual Licensing Guide -Oct  2026/Demystifying_Microsoft_Copilot_Studio_Aroh_Shukla.pdf>)
+)
 
 
 ## Slide Deck Copilot Studio Visual Licensing Blueprint - November 2026
@@ -133,15 +129,22 @@ A clear, step-by-step breakdown of licensing tiers and compliant governance for 
 [Copilot Studio Visual Licensing Blueprint October 2026 in Visual Way](<06 Copilot Studio Visual Licensing Guide -Oct  2026/Demystifying_Microsoft_Copilot_Studio_Aroh_Shukla.pdf>)
 
 
-##  Irreplaceable Cloud  AI Architect  - November 2026
+##  Irreplaceable Cloud  AI Architect  - 14 November 2026
 
 👉  Irreplaceable Cloud AI Architect Skills in Visual Way
 
 [Irreplaceable Cloud AI Architect Skills in Visual Way](<08 Irreplaceable Cloud  AI Architect/The_Irreplaceable_Architect_Clean_Final.pdf>)
 
 
-##  Udemy Dr Ryan Copilot Cowork Notes with Screenshots and refrences - November 2026
+##  Udemy Dr Ryan Copilot Cowork Notes with Screenshots and refrences - 16 November 2026
 
 👉  Udemy Dr Ryan Copilot Cowork Notes with Screenshots and refrences
 
 [Udemy Dr Ryan Copilot Cowork Notes with Screenshots and refrences](<09 Udemy Dr Ryan - Copilot Cowork Notes/20261116 Aroh Shukla Copilot Cowork Notes - All Screenshots & Practice.pdf>) 
+
+
+#  Microsoft Copilot Studio Enterprise Guide to Security, Governance, Licensing, Harness Selection and Cost Optimization  - 25 November 2026
+
+👉  Microsoft Copilot Studio Enterprise Guide to Security, Governance, Licensing, Harness Selection and Cost Optimization
+
+[Microsoft Copilot Studio Enterprise Guide to Security, Governance, Licensing, Harness Selection and Cost Optimization](<10 Copilot Studio Strategy/Microsoft Copilot Studio Enterprise Guide to Security, Governance, Licensing, Harness Selection and Cost Optimization.pdf>)
