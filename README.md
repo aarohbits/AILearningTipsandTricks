@@ -148,3 +148,10 @@ A clear, step-by-step breakdown of licensing tiers and compliant governance for 
 👉  Microsoft Copilot Studio Enterprise Guide to Security, Governance, Licensing, Harness Selection and Cost Optimization
 
 [Microsoft Copilot Studio Enterprise Guide to Security, Governance, Licensing, Harness Selection and Cost Optimization](<10 Copilot Studio Strategy/Microsoft Copilot Studio Enterprise Guide to Security, Governance, Licensing, Harness Selection and Cost Optimization.pdf>)
+
+
+#   Copilot Studio Standard Harness vs GHCP Copilot Harness  - 28 November 2026
+
+👉  Copilot Studio Standard Harness vs GHCP Copilot Harness
+
+[Copilot Studio Standard Harness vs GHCP Copilot Harness](<11 Copilot Studio Standard Harness vs GHCP Copilot Harness/Copilot_Studio_Harness_Strategy_Aroh_2026.pdf>)
